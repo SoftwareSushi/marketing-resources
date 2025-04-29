@@ -5,6 +5,7 @@ This repository contains various marketing resources for Software Sushi, includi
 ## Directory Structure
 
 - **html/**: Contains HTML files used for marketing purposes.
+- **images/**: Contains images.
 
 ## Usage
 
