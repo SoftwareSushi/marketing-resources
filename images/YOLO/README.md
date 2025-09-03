@@ -4,13 +4,14 @@ This directory contains dataset(s) for the purposes of blog(s) hosted on the Sof
 
 ## Dataset Credits
 
-**fish_dataset**:
--- Authors: Anantharajah, Kaneswaran and Ge, ZongYuan and McCool, Christopher and Denman, Simon and Fookes, Clinton B and Corke, Peter and Tjondronegoro, Dian W and Sridharan, Sridha
+**fish_dataset**
 
--- Title: Local inter-session variability modelling for object classification
+- Authors: Anantharajah, Kaneswaran and Ge, ZongYuan and McCool, Christopher and Denman, Simon and Fookes, Clinton B and Corke, Peter and Tjondronegoro, Dian W and Sridharan, Sridha
 
--- Book Title: Winter Conference on Applications of Computer Vision (WACV 2014)
+- Title: Local inter-session variability modelling for object classification
 
--- Link: https://www.kaggle.com/datasets/sripaadsrinivasan/fish-species-image-data/data
+- Book Title: Winter Conference on Applications of Computer Vision (WACV 2014)
 
--- Copyright Notice: [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0)
+- Link: https://www.kaggle.com/datasets/sripaadsrinivasan/fish-species-image-data/data
+
+- Copyright Notice: [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0)
