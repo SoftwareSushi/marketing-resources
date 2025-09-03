@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['fish']
+
+roboflow:
+  workspace: yolo-projects-w0jc4
+  project: fish_dataset-d8263
+  version: 4
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/yolo-projects-w0jc4/fish_dataset-d8263/dataset/4
